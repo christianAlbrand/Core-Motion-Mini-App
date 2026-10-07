@@ -11,7 +11,7 @@ import SwiftUI
 struct Core_Motion_Mini_AppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TiltView()
         }
     }
 }
